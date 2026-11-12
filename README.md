@@ -3,9 +3,6 @@ An end-to-end Power BI business intelligence solution designed to monitor, analy
 
 
 
-An end-to-end Power BI business intelligence solution designed to monitor, analyze, and optimize fleet operations, regional hub efficiency, and driver performance for **SwiftRoute Logistics**.
-
----
 
 ## 🎯 Problem Statement
 SwiftRoute Logistics coordinates daily deliveries across **6 regional hubs**, **55 drivers**, and **45 vehicles**, fulfilling over **1,200 orders per month**. Without centralized, real-time analytics, operations managers faced critical blind spots:
